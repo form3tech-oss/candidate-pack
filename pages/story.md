@@ -8,4 +8,4 @@ We’ve rolled out into Europe and have ambitious plans to expand internationall
 Though dotted across the UK and Europe, our love for cloud-native technology is what unites us. <br>
 Technical excellence is our passion and we delight in using technology to continually improve our customer’s experience. When you combine that with operational excellence, magic happens.
 
-[![About us](../assets/frame.png)]({https://player.vimeo.com/video/396910407} "About us")
+[![About us](../assets/frame.png)](https://player.vimeo.com/video/396910407)

@@ -31,14 +31,14 @@ Technical interview with 3 members of the Engineering Team via video-link. For f
 ## Learn more about us! 🙌
 Have a look at these other pages for more useful information: 
 
-- **[Our story](./pages/story)** ☀️
-- **[Our values](./pages/values)** 🚀
-- **[Our perks and benefits](./pages/benefits)** 💍
-- **[Our remote-first culture](./pages/remote-first)** 🌎
-- **[How we work](./pages/how-we-work)** 🎳
-- **[Our stack](./pages/stack)** 📚
-- **[What we look for](./pages/what-we-look-for)** 🔎
-- **[FAQ](./pages/faq)** 🤨
+- **[Our story](./pages/story.md)** ☀️
+- **[Our values](./pages/values.md)** 🚀
+- **[Our perks and benefits](./pages/benefits.md)** 💍
+- **[Our remote-first culture](./pages/remote-first.md)** 🌎
+- **[How we work](./pages/how-we-work.md)** 🎳
+- **[Our stack](./pages/stack.md)** 📚
+- **[What we look for](./pages/what-we-look-for.md)** 🔎
+- **[FAQ](./pages/faq.md)** 🤨
 
 ## Ready to take the leap? 💯 
 Head over to our **[careers site](https://www.form3.tech/careers)** to see our open roles and make an application! 
