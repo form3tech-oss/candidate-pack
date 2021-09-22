@@ -26,7 +26,7 @@ An initial telephone call with a member of our Talent Team.
 Candidates are asked to complete a technical exercise in Go. If you'd like to take a look at this exercise before applying, [here is the link](https://github.com/form3tech-oss/interview-accountapi). Please do not attempt this exercise until you have spoken with a member of Form3's Talent Team.
 
 **Video Interview** 🎥 <br>
-Technical interview with 3 members of the Engineering Team via video-link. For further information on our interview process, please see the [FAQs](/interviews/faq). 
+Technical interview with 3 members of the Engineering Team via video-link. For further information on our interview process, please see the [FAQs](./pages/faq.md).
 
 ## Learn more about us! 🙌
 Have a look at these other pages for more useful information: 
