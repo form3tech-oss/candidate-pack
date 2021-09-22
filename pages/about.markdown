@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+category: navbar
 permalink: /about-us/
 ---
 

@@ -1,26 +1,19 @@
 ---
 layout: page
-title: Interview process
-permalink: /interview-process/
+title: Interviews
+category: navbar
+permalink: /interviews/
 ---
+
+We are delighted that you are interested in learning more about our interview process! 🎉
+
+This page has everything you need to know about the interview process:
+- [Our Stack](/interviews/stack)
+
 
 # The Opportunity 
 
 At Form3 you will have the opportunity to design, develop and deploy backend cloud-native services within a powerful state-of-the-art microservices architecture. The work is cutting edge, constantly changing and focused on building highly available, low latency, scalable solutions. Play an active role in introducing new technologies and ways of working to stay ahead of the competition, without ever compromising on quality. Contribute and collaborate with other engineers on technical and architectural decisions. Enjoy end-to-end ownership from concept to deployment, including building and operating infrastructure, toolset and deployment pipelines. Develop your skills, work on cool projects and the latest tech, all whilst working with a talented, diverse and friendly group of people.
-
-# Our Stack
- 
- Here are a few of the tools and methodologies we utilise:
-
-- **Infrastructure** : AWS, GCP, Kubernetes
-- **Platform** : CockroachDB, Elasticsearch, PostgresDB, Vault, Consul, Linkerd, NATS
-- **Tools** : Terraform, GitHub, Prometheus, Pact.io
-- **Code** : Go, containerised microservices, CQRS, open-source
-- **Ways of working** : TDD/BDD, Pair Programming, 100% remote, DevSecOps
-
-INSERT IMAGE OF OUR STACK HERE
-
-[Link to StackOverflow](https://stackoverflow.com/jobs/companies/form3-financial-cloud)
 
 
 # What we look for
