@@ -17,7 +17,7 @@ Though dotted across the UK and Europe, our love for cloud-native technology is 
 
 These are the things we believe in; they guide our decisions and our actions
 
- INSERT VALUES ASSET HERE
+ <img src="{{site.baseurl}}/assets/values.png" alt="Form3 Values">
 
 # Inclusivity
 
@@ -37,7 +37,7 @@ We are a remote-first team collaborating across 21 countries, representing over 
 
 # Our remote workers
 
-INCLUDE MAP ASSET HERE
+ <img src="{{site.baseurl}}/assets/remote_work_map.png" alt="Form3 Remote Workers">
 
 <div class="video-container">
     <iframe src="https://player.vimeo.com/video/396910407" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

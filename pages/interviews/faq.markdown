@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq/
+permalink: /interviews/faq/
 ---
 
 ## Our Engineering Team
@@ -64,13 +64,3 @@ It really depends on how quickly you are able to complete the take home exercise
 
 ### Do I receive feedback on my technical exercise if unsuccessful?
 Yes. Each technical exercise is reviewed by two engineers and they will provide written feedback that highlights the positive aspects of your solution, whilst explaining areas that could have been improved.
-
-## Helpful Links
-
-- [Website](https://www.form3.tech/about)
-- [Newsroom](https://form3.tech/press)  
-- [Vimeo](https://vimeo.com/form3)
-- [Blog](https://form3.tech/blog)
-- [Podcast](https://tech-by-form3.simplecast.com/)
-- [Stack Overflow profile](https://stackoverflow.com/jobs/companies/form3-financial-cloud)
-- [Github profile](https://github.com/form3tech-oss)
