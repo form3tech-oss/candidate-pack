@@ -10,6 +10,4 @@ There are no ‘strict’ rules for pair programming, and we empower our enginee
 
 Our engineers thrive in solving complex payment problems, pairing up the brightest minds to deliver technical excellence to our customers.
 
-<div style="background-color:white">
-    <img src="../assets/pairing-2x.png" alt="Pairing testimonial"/>
-</div>
+![Pairing testimonial](../assets/pairing-2x.png)

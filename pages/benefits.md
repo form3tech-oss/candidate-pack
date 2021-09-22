@@ -1,8 +1,6 @@
 # Our Perks and Benefits 💍
 
-<div style="background-color:white">
-    <img src="../assets/benefits.png" alt="Our Benefits"/>
-</div>
+![Our Benefits](../assets/benefits.png)
 
 ## Why Work at Form3
 
