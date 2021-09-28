@@ -34,6 +34,7 @@ Have a look at these other pages for more useful information:
 - **[Our story](./pages/story.md)** ☀️
 - **[Our values](./pages/values.md)** 🚀
 - **[Our perks and benefits](./pages/benefits.md)** 💍
+- **[Visa sponsorship](./pages/visa-sponsorship.md)** 🛫
 - **[Our remote-first culture](./pages/remote-first.md)** 🌎
 - **[How we work](./pages/how-we-work.md)** 🎳
 - **[Our stack](./pages/stack.md)** 📚
