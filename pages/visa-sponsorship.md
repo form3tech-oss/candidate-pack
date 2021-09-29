@@ -1,7 +1,7 @@
 # Visa sponsorship 🛫
 
 We are able to provide visa sponsorship in: 
-- the United Kingdom 🇬🇧
+- United Kingdom 🇬🇧
 - Netherlands 🇳🇱
 - Germany 🇩🇪
 - France 🇫🇷

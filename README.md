@@ -38,6 +38,7 @@ Have a look at these other pages for more useful information:
 - **[Our remote-first culture](./pages/remote-first.md)** 🌎
 - **[How we work](./pages/how-we-work.md)** 🎳
 - **[Our stack](./pages/stack.md)** 📚
+- **[Our engineering teams](./pages/teams.md)** 💻
 - **[What we look for](./pages/what-we-look-for.md)** 🔎
 - **[FAQ](./pages/faq.md)** 🤨
 
