@@ -29,19 +29,13 @@ Candidates are asked to complete a technical exercise in Go. If you'd like to ta
 Technical interview with 3 members of the Engineering Team via video-link. For further information on our interview process, please see the [FAQs](./pages/faq.md).
 
 ## Learn more about us! 🙌
-Have a look at these other pages for more useful information: 
+Read more about all things engineering on our [engineering site](https://engineering.form3.tech/about/)! 💻
 
-- **[Our story](./pages/story.md)** ☀️
-- **[Our values](./pages/values.md)** 🚀
-- **[Our perks and benefits](./pages/benefits.md)** 💍
+Have a look at these other pages for more interviewing details:
 - **[Visa sponsorship](./pages/visa-sponsorship.md)** 🛫
-- **[Our remote-first culture](./pages/remote-first.md)** 🌎
-- **[How we work](./pages/how-we-work.md)** 🎳
-- **[Our stack](./pages/stack.md)** 📚
-- **[Our engineering teams](./pages/teams.md)** 💻
 - **[What we look for](./pages/what-we-look-for.md)** 🔎
 - **[FAQ](./pages/faq.md)** 🤨
-
+  
 ## Ready to take the leap? 💯 
 Head over to our **[careers site](https://www.form3.tech/careers)** to see our open roles and make an application! 
 
