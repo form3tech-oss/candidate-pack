@@ -23,7 +23,7 @@ At Form3 you will have the opportunity to:
 An initial telephone call with a member of our Talent Team.
 
 **Take Home Exercise** 🏡 <br>
-Candidates are asked to complete a technical exercise in Go. If you'd like to take a look at this exercise before applying, [here is the link](https://github.com/form3tech-oss/interview-accountapi). Please do not attempt this exercise until you have spoken with a member of Form3's Talent Team.
+Candidates are asked to complete a take home technical exercise in Go. Read more about our approach to [the technical coding task](./pages/coding-task.md).
 
 **Video Interview** 🎥 <br>
 Technical interview with 3 members of the Engineering Team via video-link. For further information on our interview process, please see the [FAQs](./pages/faq.md).
