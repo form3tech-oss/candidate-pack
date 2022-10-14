@@ -43,9 +43,7 @@ Yes. Each technical exercise is reviewed by two engineers and they will provide 
 Here's a few other links where you can learn even more about us: 
 
 - **[Website](https://www.form3.tech/about)**
-- **[Newsroom](https://form3.tech/press)**
+- **[Insights](https://www.form3.tech/why-form3/insights)**
 - **[Vimeo](https://vimeo.com/form3)**
-- **[Blog](https://form3.tech/blog)**
 - **[Podcast](https://tech-by-form3.simplecast.com/)**
-- **[Stack Overflow profile](https://stackoverflow.com/jobs/companies/form3-financial-cloud)**
 - **[Github profile](https://github.com/form3tech-oss)**
