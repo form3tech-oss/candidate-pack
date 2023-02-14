@@ -1,0 +1,12 @@
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  no-op:
+    runs-on: ubuntu-latest
+    steps:
+      - name: build
+        run: echo build successful
