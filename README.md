@@ -2,6 +2,12 @@
 
 ![Our Logo](./assets/form3-logo-gopher.png)
 
+## Form3 at a glance
+- High volume multi-cloud architecture 🚀
+- Build with cloud native technologies ☁️
+- SecDevOps engineering culture 🔐
+- Remote-first with staff in 20+ countries 🌍
+
 We are an award-winning cloud-native payment technology provider for financially regulated business.<br>
 We connect those regulated businesses to payment schemes all over the world so that they can deliver amazing products for their customers. <br>
 When you look around at how the world has changed, there’s this big divergence. The real economy has moved into a fast-paced, digital, real-time landscape; yet payments technology hasn’t quite kept pace. We are on a mission to redefine what a truly instant payment experience means. 
