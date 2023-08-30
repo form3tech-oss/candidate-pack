@@ -29,7 +29,7 @@ At Form3 you will have the opportunity to:
 An initial telephone call with a member of our Talent Team.
 
 **Take Home Exercise** 🏡 <br>
-Candidates are asked to complete a take home technical exercise in Go. Read more about our approach to [the technical coding task](./pages/coding-task.md).
+Candidates are asked to complete a take home technical exercise in either Go or Terraform, depending on whether you're applying to join our software or platform teams. Read more about our approach to [the technical coding task](./pages/coding-task.md).
 
 **Video Interview** 🎥 <br>
 Technical interview with 3 members of the Engineering Team via video-link. For further information on our interview process, please see the [FAQs](./pages/faq.md).
