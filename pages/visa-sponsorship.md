@@ -4,7 +4,6 @@ We are able to provide visa sponsorship in:
 - United Kingdom 🇬🇧
 - Netherlands 🇳🇱
 - Germany 🇩🇪
-- France 🇫🇷
 
 Our new sponsorship initiative provides an exciting opportunity to relocate anywhere in these countries and collaborate with top engineers to revolutionise the world of payment technology.
 
